@@ -90,8 +90,6 @@ ol {
   display: flex;
   flex-direction: column;
   width: 399px;
-
-  /* block-size: 100%; */
   gap: 26px;
 }
 
